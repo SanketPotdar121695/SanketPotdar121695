@@ -14,9 +14,9 @@
 
 - 📫 How to reach me **sanket.potdar563@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1i4RR-zJ4H6-1qmmiILOH-9tUoDHzfP9g/view?usp=sharing](https://drive.google.com/file/d/1i4RR-zJ4H6-1qmmiILOH-9tUoDHzfP9g/view?usp=sharing)
-
 - ⚡ Fun fact **I am learning to create animations using simple HTML, CSS & JS**
+
+- 📄 Know more about me 👉 [Resume](https://drive.google.com/file/d/1i4RR-zJ4H6-1qmmiILOH-9tUoDHzfP9g/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
