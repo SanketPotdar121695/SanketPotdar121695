@@ -1,4 +1,4 @@
-<img align="center" width="100%" height="500px" src="https://media.istockphoto.com/id/537331500/photo/programming-code-abstract-technology-background-of-software-deve.jpg?s=612x612&w=0&k=20&c=jlYes8ZfnCmD0lLn-vKvzQoKXrWaEcVypHnB5MuO-g8=" alt="my-img"/>
+<img align="center" width="100%" height="300px" src="https://venturebeat.com/wp-content/uploads/2021/02/GitHub-screen.jpg?w=1200&strip=all" alt="my-img"/>
 
 <h1 align="center">Hi 👋, I'm Sanket Potdar</h1>
 <h3 align="center">A passionate full-stack web developer</h3>
