@@ -1,4 +1,4 @@
-<img align="center" src="https://ak.picdn.net/shutterstock/videos/19642093/thumb/1.jpg" alt="my-img"/>
+<img align="center" src="https://media.istockphoto.com/id/537331500/photo/programming-code-abstract-technology-background-of-software-deve.jpg?s=612x612&w=0&k=20&c=jlYes8ZfnCmD0lLn-vKvzQoKXrWaEcVypHnB5MuO-g8=" alt="my-img"/>
 
 <h1 align="center">Hi 👋, I'm Sanket Potdar</h1>
 <h3 align="center">A passionate full-stack web developer</h3>
