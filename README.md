@@ -1,3 +1,5 @@
+<image align="center src="https://ak.picdn.net/shutterstock/videos/19642093/thumb/1.jpg" alt="my-img"/>
+
 <h1 align="center">Hi 👋, I'm Sanket Potdar</h1>
 <h3 align="center">A passionate full-stack web developer</h3>
 
