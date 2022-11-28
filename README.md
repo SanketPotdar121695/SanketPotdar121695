@@ -1,4 +1,6 @@
-### Hi there 👋
+#### 👋 Hi, I am Sanket
+#### 😀 I am currently learning full-time web development course
+#### 🤝 I would like to explore new opportunities, which can enhance my coding knowledge
 
 <!--
 **sanket-potdar563/sanket-potdar563** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
