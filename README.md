@@ -1,8 +1,7 @@
-<img align="center" width="100%" height="300px" src="https://venturebeat.com/wp-content/uploads/2021/02/GitHub-screen.jpg?w=1200&strip=all" alt="my-img"/>
-
 <h1 align="center">Hi 👋, I'm Sanket Potdar</h1>
 <h3 align="center">A passionate full-stack web developer</h3>
 
+<img align="center" width="100%" height="300px" src="https://venturebeat.com/wp-content/uploads/2021/02/GitHub-screen.jpg?w=1200&strip=all" alt="my-img"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanket-potdar563" alt="sanket-potdar563" /></a> </p>
 
