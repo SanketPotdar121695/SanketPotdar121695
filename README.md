@@ -5,7 +5,7 @@
 
 ![MasterHead](https://shorturl.at/muv02)
 
-### ![image](https://user-images.githubusercontent.com/107460815/204648531-0761da97-2ada-48bb-af74-f873dc6d612d.png) About Me:
+### About Me:
 
 - 🔭 I’m currently studying in **Masai School**
 
