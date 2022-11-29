@@ -3,7 +3,7 @@
 
 <p align="center"><img width="50%" src="https://shorturl.at/ioQX8" alt="my-img"/></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sanket-potdar563&label=Profile%20views&color=0e75b6&style=flat" alt="sanket-potdar563" /> </p>
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 
 - 🔭 I’m currently studying in **Masai School**
 
