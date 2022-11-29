@@ -3,6 +3,8 @@
 
 <img style="margin: auto; align: center" width="80%" height="250px" src="https://venturebeat.com/wp-content/uploads/2021/02/GitHub-screen.jpg?w=1200&strip=all" alt="my-img"/>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sanket-potdar563&label=Profile%20views&color=0e75b6&style=flat" alt="sanket-potdar563" /> </p>
+
 - 🔭 I’m currently studying in **Masai School**
 
 - 🌱 I’m currently learning **full-stack web development**
