@@ -1,9 +1,7 @@
+![MasterHead](https://shorturl.at/muv02)
+
 <h1 align="center">Hi 👋, I'm Sanket Potdar</h1>
 <h3 align="center">A passionate full-stack web developer</h3>
-
-<!-- <p align="center"><img width="50%" src="https://shorturl.at/ioQX8" alt="my-img"/></p> -->
-
-![MasterHead](https://shorturl.at/muv02)
 
 ## About Me:
 
@@ -33,11 +31,12 @@
 ## Languages and Tools:
 
 <p> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<hr thickness="20px" />
 
-## My GitHub Stats
+## My GitHub Stats:
 
-<p><img width="80%" align="center" src="https://github-readme-stats.vercel.app/api?username=sanket-potdar563&show_icons=true&theme=tokyonight&locale=en" alt="sanket-potdar563" /></p>
+<p align="center"><img width="70%" align="center" src="https://github-readme-stats.vercel.app/api?username=sanket-potdar563&show_icons=true&theme=tokyonight&locale=en" alt="sanket-potdar563" /></p>
 
-<p><img width="80%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanket-potdar563&theme=tokyonight" alt="sanket-potdar563" /></p>
+<p align="center"><img width="70%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanket-potdar563&theme=tokyonight" alt="sanket-potdar563" /></p>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sanket-potdar563&bg_color=121014&color=51f5d4&line=9137a9&point=55f7d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
