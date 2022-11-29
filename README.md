@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanket Potdar</h1>
 <h3 align="center">A passionate full-stack web developer</h3>
 
-<img style="margin: "center"" width="80%" height="250px" src="https://venturebeat.com/wp-content/uploads/2021/02/GitHub-screen.jpg?w=1200&strip=all" alt="my-img"/>
+<img style="margin: center" width="80%" height="250px" src="https://venturebeat.com/wp-content/uploads/2021/02/GitHub-screen.jpg?w=1200&strip=all" alt="my-img"/>
 
 - 🔭 I’m currently studying in **Masai School**
 
