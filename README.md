@@ -3,7 +3,7 @@
 
 <p align="center"><img width="50%" src="https://shorturl.at/ioQX8" alt="my-img"/></p>
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://shorturl.at/muv02)](https://rishavchanda.io)
 
 - 🔭 I’m currently studying in **Masai School**
 
