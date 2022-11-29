@@ -3,7 +3,7 @@
 
 <!-- <p align="center"><img width="50%" src="https://shorturl.at/ioQX8" alt="my-img"/></p> -->
 
-[![MasterHead](https://shorturl.at/muv02)]
+![MasterHead](https://shorturl.at/muv02)
 
 - 🔭 I’m currently studying in **Masai School**
 
