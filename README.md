@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanket Potdar</h1>
 <h3 align="center">A passionate full-stack web developer</h3>
 
-<img src="https://shorturl.at/ioQX8" alt="my-img"/>
+<img style="width: 80%" src="https://shorturl.at/ioQX8" alt="my-img"/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sanket-potdar563&label=Profile%20views&color=0e75b6&style=flat" alt="sanket-potdar563" /> </p>
 
