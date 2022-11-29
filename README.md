@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanket Potdar</h1>
 <h3 align="center">A passionate full-stack web developer</h3>
 
-<p align="center"><img width="50%" src="https://shorturl.at/ioQX8" alt="my-img"/></p>
+<!-- <p align="center"><img width="50%" src="https://shorturl.at/ioQX8" alt="my-img"/></p> -->
 
 [![MasterHead](https://shorturl.at/muv02)](https://rishavchanda.io)
 
