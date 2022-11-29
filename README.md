@@ -20,6 +20,7 @@
 - ⚡ Fun fact **I am learning to create animations using simple HTML, CSS & JS**
 
 - 📄 Know more about me 👉 [Resume](https://drive.google.com/file/d/1i4RR-zJ4H6-1qmmiILOH-9tUoDHzfP9g/view?usp=share_link)
+<hr thickness="20px" />
 
 ## 📞 Connect with me:
 
