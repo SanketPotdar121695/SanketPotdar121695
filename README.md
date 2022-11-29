@@ -37,3 +37,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sanket-potdar563&show_icons=true&theme=tokyonight&locale=en" alt="sanket-potdar563" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanket-potdar563&theme=tokyonight" alt="sanket-potdar563" /></p>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sanket-potdar563&bg_color=141414&color=51f5d4&line=9137a9&point=55f7d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
