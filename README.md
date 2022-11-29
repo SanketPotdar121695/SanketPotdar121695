@@ -15,11 +15,11 @@
 
 - 💬 Ask me about **ReactJS, NextJS, Redux**
 
-- 📫 How to reach me **sanket.potdar563@gmail.com**
+- 📫 How to reach me **_sanket.potdar563@gmail.com_**
 
 - ⚡ Fun fact **I am learning to create animations using simple HTML, CSS & JS**
 
-- 📄 Know more about me 👉 [Resume](https://drive.google.com/file/d/1i4RR-zJ4H6-1qmmiILOH-9tUoDHzfP9g/view?usp=share_link)
+- 📄 Know more about me 👉 **_[Resume](https://drive.google.com/file/d/1i4RR-zJ4H6-1qmmiILOH-9tUoDHzfP9g/view?usp=share_link)_**
 <hr thickness="20px" />
 
 ## 📞 Connect with me:
