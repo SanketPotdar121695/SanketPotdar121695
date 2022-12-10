@@ -1,11 +1,13 @@
 ![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
 
-<h1 align="center">Hi 👋, I'm Sanket Potdar</h1>
+<h1 align="center">Hi, <img width="3%" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="hi"> I'm Sanket Potdar</h1>
 <h3 align="center">A passionate full-stack web developer</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sanket-potdar563&label=Profile%20views&color=0e75b6&style=flat" alt="sanket-potdar563" /> </p>
 
 ## About Me:
+
+<span><img align="right" style="float: right" src="https://i.postimg.cc/63D0kpKD/ezgif-2-31b405ef45.gif" alt="bot"/>
 
 - 🔭 I’m currently studying in **Masai School**
 
@@ -20,6 +22,9 @@
 - ⚡ Fun fact **I am learning to create animations using simple HTML, CSS & JS**
 
 - 📄 Know more about me 👉 **_[Resume](https://drive.google.com/file/d/1i4RR-zJ4H6-1qmmiILOH-9tUoDHzfP9g/view?usp=share_link)_**
+  
+</span>
+
 <hr thickness="20px" />
 
 ## Connect with me:
@@ -37,8 +42,10 @@
 
 ## My GitHub Stats:
 
-<p align="center"><img width="70%" align="center" src="https://github-readme-stats.vercel.app/api?username=sanket-potdar563&show_icons=true&theme=tokyonight&locale=en" alt="sanket-potdar563" /></p>
+<p align="center"><img width="70%" align="center"src="https://github-readme-stats.vercel.app/api?username=sanket-potdar563&show_icons=true&theme=tokyonight&locale=en" alt="sanket-potdar563" /></p>
 
 <p align="center"><img width="70%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanket-potdar563&theme=tokyonight" alt="sanket-potdar563" /></p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sanket-potdar563&bg_color=121014&color=51f5d4&line=9137a9&point=55f7d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![MasterHead](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
