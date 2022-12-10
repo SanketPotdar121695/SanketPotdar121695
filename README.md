@@ -1,4 +1,4 @@
-![MasterHead](https://shorturl.at/muv02)
+![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
 
 <h1 align="center">Hi 👋, I'm Sanket Potdar</h1>
 <h3 align="center">A passionate full-stack web developer</h3>
