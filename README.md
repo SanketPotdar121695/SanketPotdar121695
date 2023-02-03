@@ -16,6 +16,8 @@
 - 👯 I’m looking to collaborate on **some interesting projects**
 
 - 💬 Ask me about **ReactJS, NextJS, Redux**
+  
+- 🌏 Explore my projects at **_[My Portfolio](https://sanket-potdar563.github.io)_**
 
 - 📫 How to reach me **_sanket.potdar563@gmail.com_**
 
