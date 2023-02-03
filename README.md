@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **ReactJS, NextJS, Redux**
   
-- 🌏 Explore my projects at **_[My Portfolio](https://sanket-potdar563.github.io)_**
+- 🌏 Explore my projects at **_<a style="color:red;" href="https://sanket-potdar563.github.io/">My Portfolio</a>_**
 
 - 📫 How to reach me **_sanket.potdar563@gmail.com_**
 
