@@ -44,9 +44,9 @@
 
 ## My GitHub Stats:
 
-<p align="center"><img width="70%" align="center"src="https://github-readme-stats.vercel.app/api?username=sanket-potdar563&show_icons=true&theme=tokyonight&locale=en" alt="sanket-potdar563" /></p>
+<p align="center"><img width="70%" align="center"src="https://github-readme-stats.vercel.app/api?username=SanketPotdar121695&show_icons=true&theme=tokyonight&locale=en" alt="SanketPotdar121695" /></p>
 
-<p align="center"><img width="70%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanket-potdar563&theme=tokyonight" alt="sanket-potdar563" /></p>
+<p align="center"><img width="70%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SanketPotdar121695&theme=tokyonight" alt="SanketPotdar121695" /></p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SanketPotdar121695&bg_color=121014&color=51f5d4&line=9137a9&point=55f7d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
