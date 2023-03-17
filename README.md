@@ -32,7 +32,7 @@
 ## Connect with me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/sanket-potdar563/"><img align="center" src="https://raw.githubusercontent.com/Sanketpotdar121695/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked-in" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sanket-potdar563/">LinkedIn</a>
 <a href="https://codesandbox.com/sanketpotdar121695" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sanketpotdar121695" height="30" width="40" /></a>
 </p>
 <hr thickness="20px" />
