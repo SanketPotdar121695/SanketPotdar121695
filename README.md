@@ -19,7 +19,9 @@
   
 - 🌏 Explore my projects at **_<a href="https://sanket-potdar563.github.io/">My Portfolio</a>_**
   
-- 💬 Reach out to me on **_<a href="https://www.linkedin.com/in/sanket-potdar563/">LinkedIn</a>_**
+- 💬 Reach out to me on **_<a href="https://www.linkedin.com/in/sanket-potdar563/">Linkedin</a>_**
+  
+- 📄 Know more about me 👉 **_[LinkedIn](https://www.linkedin.com/in/sanket-potdar563/)_**
 
 - 📫 How to reach me **_sanket.potdar563@gmail.com_**
 
