@@ -48,6 +48,6 @@
 
 <p align="center"><img width="70%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SanketPotdar121695&theme=tokyonight" alt="SanketPotdar121695" /></p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SanketPotdar121695&bg_color=121014&color=51f5d4&line=9137a9&point=55f7d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sanket's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SanketPotdar121695&bg_color=121014&color=51f5d4&line=9137a9&point=55f7d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![MasterHead](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
