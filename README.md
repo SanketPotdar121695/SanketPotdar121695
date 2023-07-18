@@ -13,15 +13,15 @@
 
 - 🌱 I’m currently learning **full-stack web development**
 
-- 👯 I’m looking to collaborate on **some interesting projects**
+- 👯 I’m looking to collaborate on **some interesting projects
 
-- 💬 Ask me about **ReactJS, NextJS, Redux**
+- ⚡ Fun fact: **I am learning to create animations using simple HTML, CSS & JS**
+
+- 💬 Ask me about **ReactJS, NextJS, Redux, MongoDB**
   
-<a href="https://sanketpotdar121695.github.io/">**_My Portfolio_**</a>
+- Check out <a href="https://sanketpotdar121695.github.io/">**_My Portfolio_**</a> to explore the projects created by me
 
 - 📫 How to reach me **_sanket.potdar563@gmail.com_**
-
-- ⚡ Fun fact **I am learning to create animations using simple HTML, CSS & JS**
 
 - 📄 Know more about me 👉 **_[Resume](https://drive.google.com/file/d/1i4RR-zJ4H6-1qmmiILOH-9tUoDHzfP9g/view?usp=share_link)_**
   
