@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **ReactJS, NextJS, Redux, MongoDB**
   
-- Check out <a href="https://sanketpotdar121695.github.io/">**_My Portfolio_**</a> to explore the projects created by me
+- Check out <a href="https://sanketpotdar121695.github.io/">**_My Portfolio_**</a> to explore some interesting projects created by me
 
 - 📫 How to reach me **_sanket.potdar563@gmail.com_**
 
