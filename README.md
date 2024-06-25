@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **_sanket.potdar563@gmail.com_**
 
-- 📄 Know more about me 👉 **_[Resume](https://drive.google.com/file/d/1i4RR-zJ4H6-1qmmiILOH-9tUoDHzfP9g/view?usp=share_link)_**
+- 📄 Know more about me 👉 **_[Resume](https://drive.google.com/file/d/1b8zAfpbXgcJWkhK9rsB5RIaFfzn_NMyn/view?usp=sharing)_**
   
 </span>
 
