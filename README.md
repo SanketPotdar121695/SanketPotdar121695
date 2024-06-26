@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **full-stack web development**
 
-- 👯 I’m looking to collaborate on **some interesting projects
+- 👯 I’m looking to collaborate on **some interesting projects**
 
 - ⚡ Fun fact: **I am learning to create animations using simple HTML, CSS & JS**
 
